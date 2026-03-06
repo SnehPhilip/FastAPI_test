@@ -1,4 +1,4 @@
-# FastAPI_test   REPOSITORY FILES
+# FastAPI_test- FILES to execute
       1.FastAPI_Test.ipynb
       2.main.py
 
@@ -17,7 +17,7 @@
 
     * APIs aren't just for humans using apps.They allow different services to "talk" to each other automatically.
     * Example: When you buy something on a website, the website's API sends a POST request to
-    * Stripe’s API to process the credit card. Stripe sends a response back, and the website updates your order status.
+      Stripe’s API to process the credit card. Stripe sends a response back, and the website updates your order status.
 
 ### 4. Scalability and Efficiency
 
